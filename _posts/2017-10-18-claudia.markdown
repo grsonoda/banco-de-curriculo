@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Claudia Abreu Paes"
+date:   2016-02-06 15:08:10 -0500
+img: img/portfolio/claudia.jpeg
+modalID: modalCabin
+category: Design
+urlCV: https://claudiapaes.github.io/online-cv/
+---
+Claudia Abreu Paes 
+Professora

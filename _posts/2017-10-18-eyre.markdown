@@ -2,10 +2,10 @@
 layout: post
 title:  "Eyre Brasil Barbosa Montevecchi"
 date:   2017-10-18 21:00:00 -0500
-img: img/portfolio/salgado.jpeg
+img: img/portfolio/eyre.jpeg
 modalID: modalCabin
 category: Design
-urlCV: https://eyrebrasil.github.io/banco-de-curriculo/
+urlCV: https://eyrebrasil.github.io/online-cv/index.html
 ---
 Eyre Brasil
 Aluna

@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Start Bootstrap
+title: Banco de Curriculos
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Web Developer - Graphic Artist - User Experience Designer
-baseurl: "/startbootstrap-freelancer-jekyll" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+  Github Workshop
+baseurl: # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
 
 # Social media profiles - feel free to add more here
 twitter_username: SBootstrap
@@ -24,10 +24,10 @@ facebook_username: StartBootstrap
 #linkedin_url: https://
 
 # Address information
-address_street: 3034 Melrose Place
-address_city: Beverly Hills
-address_state: CA
-address_zip: 90201
+address_street: Gastao Alves, Icarai
+address_city: Niteroi
+address_state: RJ
+address_zip: 24220-000
 
 # Build settings
 markdown: kramdown
